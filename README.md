@@ -10,3 +10,4 @@
 👀 Esta página não está responsiva!
  - Isso quer dizer que infelizmente esta página não se adapta a outros tamanhos de tela além do browser aberto pelo seu computador;
  - O intuito era somente testar formas de posicionamento para que nas futuras práticas possam ser aplicadas a responsividade, ou seja, possibilitando a abertura da página sendo no celular, tablet ou computador. 
+ - Vale lembrar que não foram usadas as tags semânticas em sua construção no html.
